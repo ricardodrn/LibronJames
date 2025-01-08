@@ -6,7 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "scheme": "LibronJames",
+    "scheme": "libronjames",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",

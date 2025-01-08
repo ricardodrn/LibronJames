@@ -10,17 +10,6 @@ import { Text, StyleSheet, Button } from "react-native";
 import { StatusBar } from "expo-status-bar";
 
 export default function Index() {
-
-  // const bottomSheetModalRef = useRef<BottomSheetModal>(null);
-
-  // // callbacks
-  // const handlePresentModalPress = useCallback(() => {
-  //   bottomSheetModalRef.current?.present();
-  // }, []);
-  // const handleSheetChanges = useCallback((index: number) => {
-  //   console.log('handleSheetChanges', index);
-  // }, []);
-
   
 return (
   <GestureHandlerRootView style={styles.contentContainer}>
